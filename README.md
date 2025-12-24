@@ -51,8 +51,6 @@ The app also includes a **private personal journal** and **weekly guided meditat
   <img src="https://play-lh.googleusercontent.com/xenS3o1PkND9ZIRJDAdwsNWrt5Nx7qQtKpIBelgYCZHM8ZWMgPEfrY_Kg7KfoLw2-Q=w5120-h2880-rw" width="250" alt="Mind Nourishment Screenshot 3" />
 </div>
 
-> Upload screenshots inside the `assets/` folder  
-> Example: `assets/screen-1.png`
 
 ---
 
