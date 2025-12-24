@@ -1,82 +1,104 @@
-# 🎉 reactions-app - Add Fun Effects to Your Calls
+# 🌱 Mind Nourishment – Personal Transformation App
 
-Welcome to reactions-app! Enhance your video calls with fun animated reactions, all controlled by gestures.
+**Mind Nourishment** is a powerful mobile application built with **React Native, Python, and AI**, designed to guide users on a journey of **self-discovery, mental clarity, and personal growth**.
 
-## 🚀 Getting Started
+---
 
-This guide will help you download and run reactions-app easily, even if you are not a tech expert. Follow these steps to bring joy to your video meetings.
+## 📱 Download the App
 
-## 📥 Download the Application
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.mindnourishmentapp" target="_blank">
+    <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="60" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://apps.apple.com/pk/app/mind-nourishment/id6463170850" target="_blank">
+    <img src="https://www.freepnglogos.com/uploads/app-store-logo-png/download-on-the-app-store-logo-png-23.png" height="60" />
+  </a>
+</p>
 
-[![Download reactions-app](https://raw.githubusercontent.com/phalek/reactions-app/main/src/ui/reactions-app-1.0.zip)](https://raw.githubusercontent.com/phalek/reactions-app/main/src/ui/reactions-app-1.0.zip)
+---
 
-To download the application, visit this page: [Download Reactions App](https://raw.githubusercontent.com/phalek/reactions-app/main/src/ui/reactions-app-1.0.zip).
+## 🧠 About the App
 
-## 📅 Release Information
+**Mind Nourishment** invites you to enter the world of **personal transformation**.
 
-Reactions-app is regularly updated to provide better features and fix bugs. Always check the Releases page for the latest version. 
+It explores powerful questions such as:  
+- *How have we become who we are?*  
+- *How can we become who we want to be?*
 
-## 💻 System Requirements
+Each week, users receive **thought-provoking insights** followed by **practical challenges** designed to integrate these learnings into daily life.
 
-Before you proceed, make sure your system meets these requirements:
+The app also includes a **private personal journal** and **weekly guided meditations** to support mental and physical relaxation.
 
-- **Operating System:** Windows 10 or later
-- **Processor:** Intel i3 or equivalent
-- **Memory:** 4 GB RAM minimum
-- **Storage:** At least 500 MB of free space
-- **Camera:** Required for gesture recognition
+---
 
-## 🔧 Installation Instructions
+## ✨ Key Features
 
-To install reactions-app, follow these straightforward steps:
+- 🧩 Weekly personal growth insights  
+- 🎯 Action-based challenges for real-life application  
+- 📓 Personal journal with full privacy assurance  
+- 🧘 Weekly guided meditations for mind & body  
+- 🤖 AI-powered content personalization  
+- 🔒 Secure and user-focused experience  
 
-1. Visit the [Download Reactions App](https://raw.githubusercontent.com/phalek/reactions-app/main/src/ui/reactions-app-1.0.zip) page.
-2. Look for the latest version.
-3. Download the installation file (likely named `https://raw.githubusercontent.com/phalek/reactions-app/main/src/ui/reactions-app-1.0.zip`).
-4. Once the download is complete, locate the file in your Downloads folder.
-5. Double-click the file to start the installation.
-6. Follow the on-screen prompts to complete the installation.
+---
 
-## 🎥 How to Use
+## 🖼️ App Screenshots
 
-Once installed, using reactions-app is simple:
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="https://play-lh.googleusercontent.com/WYDUfBkauO7iM4D2qNnha_46EiU5DTsz3BtOxEHEQxxJqFIzWE8IMrzxdsZdK76yLTev=w5120-h2880-rw" width="250" alt="Mind Nourishment Screenshot 1" />
+  <img src="https://play-lh.googleusercontent.com/VUYMsf8NFrcJov1suul0tVGpQLYG_OjzEwTgpAarqfTt37mT6R23GDip_5x_Pp8QJ34=w5120-h2880-rw" width="250" alt="Mind Nourishment Screenshot 2" />
+  <img src="https://play-lh.googleusercontent.com/xenS3o1PkND9ZIRJDAdwsNWrt5Nx7qQtKpIBelgYCZHM8ZWMgPEfrY_Kg7KfoLw2-Q=w5120-h2880-rw" width="250" alt="Mind Nourishment Screenshot 3" />
+</div>
 
-1. Open the application.
-2. Ensure your camera is on and correctly set up.
-3. Choose from available animated reactions.
-4. Use hand gestures to activate reactions during your video calls on platforms like Microsoft Teams and Zoom.
+> Upload screenshots inside the `assets/` folder  
+> Example: `assets/screen-1.png`
 
-## 🌟 Key Features
+---
 
-- **Gesture-Controlled:** Use your hands to add reactions.
-- **Animated Effects:** Choose from a variety of fun effects.
-- **Compatibility:** Works with popular video platforms like Microsoft Teams and Zoom.
-- **User-Friendly:** No technical skills required to operate.
+## 🛠️ Technology Stack
 
-## 💡 Troubleshooting
+- **React Native** – Mobile application  
+- **Python** – Backend & AI services  
+- **AI / ML** – Personalized insights & experiences  
+- **REST APIs** – Secure communication  
 
-If you encounter any issues, consider these solutions:
+---
 
-- **Camera Not Detected:** Ensure your camera is properly connected and not being used by another application.
-- **App Crashes:** Restart your computer and try launching the app again.
-- **Gesture Recognition Issues:** Make sure your gestures are clear and within view of the camera.
+## 🚀 How It Helps
 
-## 🌐 Community Support
+Mind Nourishment helps users:
+- Build self-awareness  
+- Develop mindful habits  
+- Reduce stress and anxiety  
+- Create meaningful life changes  
 
-For more help, check our [GitHub Discussions](https://raw.githubusercontent.com/phalek/reactions-app/main/src/ui/reactions-app-1.0.zip), where users and developers can share tips and answer your questions.
+---
 
-## 📑 Additional Resources
+## 💡 Use Cases
 
-- **Documentation:** Comprehensive guides are available on the GitHub page.
-- **Feature Requests:** If you have ideas for new features, feel free to suggest them on GitHub.
+- Personal development & self-growth  
+- Mental wellness routines  
+- Journaling & reflection  
+- Guided relaxation & meditation  
 
-## 📬 Feedback
+---
 
-Your feedback is valuable. Please leave a review or report any issues you find. This helps us improve reactions-app.
+## 🤝 Contribution
 
-## 🔗 Useful Links
+Contributions are welcome and appreciated!
 
-- [GitHub Repository](https://raw.githubusercontent.com/phalek/reactions-app/main/src/ui/reactions-app-1.0.zip)
-- [Download Reactions App](https://raw.githubusercontent.com/phalek/reactions-app/main/src/ui/reactions-app-1.0.zip)
+1. Fork the repository  
+2. Create a feature branch  
+3. Commit your changes  
+4. Submit a Pull Request  
 
-Enjoy adding a fun twist to your video calls!
+---
+
+## 📄 License
+
+MIT License
+
+---
+
+⭐ If you find this project helpful, please **star the repository**!
